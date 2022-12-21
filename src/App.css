@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.delete-icon{
+  cursor: pointer;
+  transition-duration: 1s;
+  position: relative;
+}
+.delete-icon:hover{
+  font-size: 30px;
+}
